@@ -6,7 +6,7 @@ This project is a part of our 7th semester coursework `19ZO02 - Social & Economi
 ![My Image](images/Amazon-book-co-purchasing-graph.png)
 
 ## Dataset Used:
-- [Stanford Large Network Dataset Collection]
+- [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html#amazon)
 
 ## Major Modules Included:
 - [Link Prediction](https://github.com/soumen7saha/Network-Analysis-on-Amazon-CoPurchasing-Data/tree/main/Link%20Prediction)
@@ -14,8 +14,10 @@ This project is a part of our 7th semester coursework `19ZO02 - Social & Economi
 - [Book Recommendation](https://github.com/soumen7saha/Network-Analysis-on-Amazon-CoPurchasing-Data/tree/main/Book%20Recommendation)
 
 ## Screenshots:
-![My Image](images/Output Screenshots/Screenshot-1.png)
-![My Image](images/Output Screenshots/Screenshot-2.png)
+
+![Image1](images/Output Screenshots/Screenshot-1.png)
+
+![Image2](images/Output Screenshots/Screenshot-2.png)
 
 ## Contributors:
 - [PRANAV VARDHAN G A - 19Z232](https://github.com/pranav112001)
