@@ -1,18 +1,18 @@
 
 # Network Analysis on Amazon CoPurchasing Data
 
-This project is a part of our 7th semester coursework `19ZO02 - Social & Economic Network Analysis`. Our objective is to analyze the co-purchase data of Amazon to construct a social network among specific products, especially books and identify the critical measures for sales.
-
-## Problem Statement
-
-## Modules Includes:
-- [Link Prediction]()
-- [Community Deduction]()
-- [Book Recommendation]()
+This project is a part of our 7th semester coursework `19ZO02 - Social & Economic Network Analysis`. Our objective is to analyze the Amazon co-purchase data among specific products, especially books and identify the critical aspects of network theory like Link Prediction, Community Deduction.
 
 ![My Image](images/Amazon-book-co-purchasing-graph.png)
 
-## Authors
+
+## Modules Included:
+- [Link Prediction](https://github.com/soumen7saha/Network-Analysis-on-Amazon-CoPurchasing-Data/tree/main/Link%20Prediction)
+- [Community Deduction](https://github.com/soumen7saha/Network-Analysis-on-Amazon-CoPurchasing-Data/tree/main/Community%20Formation)
+- [Book Recommendation](https://github.com/soumen7saha/Network-Analysis-on-Amazon-CoPurchasing-Data/tree/main/Book%20Recommendation)
+
+
+## Contributors:
 - [@pranav112001 - 19z232](https://github.com/pranav112001)
 - [@rakeshmmr - 19z235](https://github.com/rakeshmmr) 
 - [@Sivasubramaniam28 - 19z244](https://github.com/Sivasubramaniam28)
