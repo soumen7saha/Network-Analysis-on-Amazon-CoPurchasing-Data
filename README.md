@@ -5,6 +5,8 @@ This project is a part of our 7th semester coursework `19ZO02 - Social & Economi
 
 ![My Image](images/Amazon-book-co-purchasing-graph.png)
 
+[Demo Video Link](https://drive.google.com/file/d/1rRUqTs9cwXnCSgDysRidWTs_9cpAxEPU/view?usp=sharing)
+
 ## Dataset Used:
 - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html#amazon)
 
