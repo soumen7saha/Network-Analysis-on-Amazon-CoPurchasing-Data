@@ -15,9 +15,9 @@ This project is a part of our 7th semester coursework `19ZO02 - Social & Economi
 
 ## Screenshots:
 
-![Image1](images/Output Screenshots/Screenshot-1.png)
+![Image1](images/Output\ Screenshots/Screenshot-1.png)
 
-![Image2](images/Output Screenshots/Screenshot-2.png)
+![Image2](images/Output\ Screenshots/Screenshot-2.png)
 
 ## Contributors:
 - [PRANAV VARDHAN G A - 19Z232](https://github.com/pranav112001)
