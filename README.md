@@ -14,8 +14,8 @@ This project is a part of our 7th semester coursework `19ZO02 - Social & Economi
 - [Book Recommendation](https://github.com/soumen7saha/Network-Analysis-on-Amazon-CoPurchasing-Data/tree/main/Book%20Recommendation)
 
 ## Screenshots:
-![My Image](images/Output Screenshots/Screenshot 1.png)
-![My Image](images/Output Screenshots/Screenshot 2.png)
+![My Image](images/Output Screenshots/Screenshot-1.png)
+![My Image](images/Output Screenshots/Screenshot-2.png)
 
 ## Contributors:
 - [PRANAV VARDHAN G A - 19Z232](https://github.com/pranav112001)
